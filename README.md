@@ -247,5 +247,6 @@ MIT License - Feel free to use this project for learning and development.
 5. Submit a pull request
 
 ---
-
+Future updates:
+adding twilio services for alerting
 **Made with ❤️ for students, by students**
